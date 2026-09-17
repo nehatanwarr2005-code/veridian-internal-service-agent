@@ -25,14 +25,7 @@ The agent is designed to eliminate repetitive helpdesk toil, safeguard corporate
 
 ---
 
-## 📦 Mandatory Submission Deliverables
 
-| Deliverable | Location in Repository | Description |
-|---|---|---|
-| **1. GitHub Project** | [Root Directory](.) | Clean, modular Python architecture with automated test suite and Git commit history. |
-| **2. Demo Video Guide** | [`demo_video_script.md`](./demo_video_script.md) | Complete step-by-step 3–5 minute spoken narration and screen recording guide for Google Drive submission. |
-| **3. Working Agent / Prototype** | [`app.py`](./app.py) & [`run_demo.bat`](./run_demo.bat) | Clickable Streamlit web application with interactive chat, 15-request runner, live queue, and audit inspector. |
-| **4. 10-Slide PPT** | [`AIONOS_Assignment2_Internal_Service_Agent.pptx`](./AIONOS_Assignment2_Internal_Service_Agent.pptx) | Polished, professional PowerPoint presentation with slide notes and markdown transcript in [`presentation_slides.md`](./presentation_slides.md). |
 
 ---
 
